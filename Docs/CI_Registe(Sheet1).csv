@@ -1,0 +1,29 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7
+CI ID,CI Name,Version,CI Type,Owner,Status,Description
+CI-01,SCMP.docx,v1.0,Document,SCM Manager,Approved,Software Configuration Management Plan
+CI-02,CI_Register.xlsx,v1.0,Document,SCM Manager,Approved,Configuration Item Register
+CI-03,README.md,v1.0,Document,Documentation Manager,Approved,Project overview and system description
+CI-04,Login Page (Next.js),v1.0,Source Code,Developer 1,Under Development,Student login functionality
+CI-05,Dashboard Page (Next.js),v1.0,Source Code,Developer 2,Under Development,Main dashboard interface
+CI-06,data.json,v1.0,Data File,Developer 2,Under Development,Sample student data storage
+CI-07,Change_Request_Form.docx,v1.0,Document,SCM Manager,Planned,Change request documentation
+CI-08,Change_Log.xlsx,v1.0,Document,SCM Manager,Planned,Record of submitted and approved changes
+CI-09,Baseline_Record_BL1.docx,v1.0,Document,SCM Manager,Planned,Baseline 1 record
+CI-10,Baseline_Record_BL2.docx,v1.0,Document,SCM Manager,Planned,Baseline 2 record
+CI-11,Release_Notes_v1.0.docx,v1.0,Document,Documentation Manager,Planned,Release notes for version 1.0
+CI-12,Release_Notes_v1.1.docx,v1.1,Document,Documentation Manager,Planned,Release notes for version 1.1
+CI-13,Configuration_Audit_Report.docx,v1.0,Document,SCM Manager,Planned,Physical and functional configuration audit
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
